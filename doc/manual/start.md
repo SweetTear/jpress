@@ -33,7 +33,7 @@ mvn clean package
 ## 运行
 
 ```
-cd starter/target/starter-4.0
+cd starter/target/starter-5.0
 ./jpress.sh start
 ```
 
